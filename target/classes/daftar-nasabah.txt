@@ -1,0 +1,4 @@
+nomor_nasabah,nama_nasabah,email
+123,Nandang Sopyan,nandang@sopyan.id
+456,Rahayu,ayu@gmail.com
+789,Raihan Sopyan,jowmen@gmail.com
